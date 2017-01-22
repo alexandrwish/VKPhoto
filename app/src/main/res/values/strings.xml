@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKPhoto</string>
+    <string name="login_msg">Необходимо войти в свой аккаунт в системе</string>
+    <string name="login_btn">Войти</string>
+
+    <integer name="com_vk_sdk_AppId">5833312</integer>
+</resources>
